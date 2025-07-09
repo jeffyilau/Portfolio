@@ -31,7 +31,7 @@ Here are some of the hands-on projects you’ll find in my repositories:
 
 ### 🔐 Google Cybersecurity Certificate Projects
 Practical labs covering real-world scenarios like phishing analysis, log correlation, network defense, and more. Each project includes documentation, screenshots, and scripts used.  
-➡️ [View Projects Here](#) *(Replace with actual repo or folder link)*
+➡️ [View Projects Here](https://github.com/jeffyilau/Portfolio/tree/main)
 
 ### 🧰 Python & Bash Scripts
 Custom scripts for log parsing, simple intrusion detection logic, and automating repetitive security/IT tasks.
@@ -49,9 +49,8 @@ Solving vulnerable machines and documenting the full attack chain, including enu
 
 ## 📫 Let’s Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/jeffrey-yilau) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/jeffrey-yilau/)
 - 📧 Email: jeffyilau@gmail.com
-- 🌐 Personal website/portfolio: [yourwebsite.com](https://yourwebsite.com) *(if applicable)*
 
 ---
 
